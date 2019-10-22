@@ -1,0 +1,9 @@
+<html>
+<h1>Github使用</h1>
+<p>这是我的第一次github使用经历</P>
+<script>
+ function Test(){
+ console.log("你好")
+ }
+</script>
+</html>
